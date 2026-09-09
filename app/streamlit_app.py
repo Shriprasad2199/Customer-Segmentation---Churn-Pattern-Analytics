@@ -83,6 +83,7 @@ st.markdown("""
     font-size: 28px;
     font-weight: 700;
     color: #ffffff;
+}
 
 .summary-divider {
     width: 1px;
