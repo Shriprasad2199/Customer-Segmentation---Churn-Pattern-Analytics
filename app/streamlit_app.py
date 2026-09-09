@@ -21,12 +21,14 @@ st.markdown("""
     font-size: 17px;
     font-weight: 600;
     margin-bottom: 12px;
+    color: #f1f5f9;
 }
 
 .kpi-value {
     font-size: 34px;
     font-weight: 700;
     margin-bottom: 8px;
+    color: #ffffff;
 }
 
 .kpi-description {
