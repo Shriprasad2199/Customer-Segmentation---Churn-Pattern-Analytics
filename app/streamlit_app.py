@@ -57,6 +57,7 @@ st.markdown("""
     font-size: 26px;
     font-weight: 700;
     margin-bottom: 20px;
+    color: #ffffff;
 }
 
 .summary-metrics {
@@ -75,7 +76,13 @@ st.markdown("""
     font-size: 17px;
     font-weight: 600;
     margin-bottom: 8px;
+    color: #f1f5f9;
 }
+
+.summary-value {
+    font-size: 28px;
+    font-weight: 700;
+    color: #ffffff;
 
 .summary-divider {
     width: 1px;
@@ -96,6 +103,7 @@ st.markdown("""
     font-size: 26px;
     font-weight: 700;
     margin-bottom: 6px;
+    color: #ffffff;
 }
 
 .engagement-subtitle {
@@ -120,11 +128,13 @@ st.markdown("""
     font-size: 17px;
     font-weight: 600;
     margin-bottom: 8px;
+    color: #f1f5f9;
 }
 
 .engagement-value {
     font-size: 32px;
     font-weight: 700;
+    color: #ffffff;
 }
 
 .engagement-description {
@@ -150,6 +160,7 @@ st.markdown("""
     font-size: 17px;
     font-weight: 600;
     margin-bottom: 5px;
+    color: #f1f5f9;
 }
 
 .engagement-drop-value {
