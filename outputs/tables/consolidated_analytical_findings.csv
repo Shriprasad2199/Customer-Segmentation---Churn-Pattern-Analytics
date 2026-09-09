@@ -1,0 +1,14 @@
+Analysis Area,Key Finding,Value
+Overall Churn,Overall churn rate,20.37%
+Geography,Germany has the highest churn rate,32.44%
+Age,46-60 age group has the highest churn rate,51.12%
+Gender,Female customers have higher churn,25.07%
+Credit Score,Low credit score has the highest churn rate,22.02%
+Tenure,Tenure shows limited variation in churn,New: 21.14%
+Balance,High-balance customers have the highest churn rate,25.23%
+Customer Engagement,Inactive customers are disproportionately represented among churners,63.92%
+Geography × Age,Germany + 46-60 has the highest combined churn rate,67.33%
+High-Balance Churners,"1,211 high-balance customers churned","1,211 customers"
+Churn Balance Exposure,Total balance associated with churned customers,"185,588,094.63"
+High-Balance Exposure Share,Share of churned balance exposure from high-balance churners,85.94%
+Salary × Balance,Very weak relationship between salary and balance,Pearson r = 0.0123
